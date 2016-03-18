@@ -13,6 +13,7 @@
 		310D260A1C9C611D00E2BD5E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 310D26081C9C611D00E2BD5E /* Main.storyboard */; };
 		310D260C1C9C611D00E2BD5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 310D260B1C9C611D00E2BD5E /* Assets.xcassets */; };
 		310D260F1C9C611D00E2BD5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 310D260D1C9C611D00E2BD5E /* LaunchScreen.storyboard */; };
+		310D26181C9C6B3000E2BD5E /* TipCalculations.m in Sources */ = {isa = PBXBuildFile; fileRef = 310D26171C9C6B3000E2BD5E /* TipCalculations.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		310D260B1C9C611D00E2BD5E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		310D260E1C9C611D00E2BD5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		310D26101C9C611D00E2BD5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		310D26161C9C6B3000E2BD5E /* TipCalculations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TipCalculations.h; sourceTree = "<group>"; };
+		310D26171C9C6B3000E2BD5E /* TipCalculations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TipCalculations.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				310D26031C9C611D00E2BD5E /* AppDelegate.m */,
 				310D26051C9C611D00E2BD5E /* ViewController.h */,
 				310D26061C9C611D00E2BD5E /* ViewController.m */,
+				310D26161C9C6B3000E2BD5E /* TipCalculations.h */,
+				310D26171C9C6B3000E2BD5E /* TipCalculations.m */,
 				310D26081C9C611D00E2BD5E /* Main.storyboard */,
 				310D260B1C9C611D00E2BD5E /* Assets.xcassets */,
 				310D260D1C9C611D00E2BD5E /* LaunchScreen.storyboard */,
@@ -152,6 +157,7 @@
 				310D26071C9C611D00E2BD5E /* ViewController.m in Sources */,
 				310D26041C9C611D00E2BD5E /* AppDelegate.m in Sources */,
 				310D26011C9C611D00E2BD5E /* main.m in Sources */,
+				310D26181C9C6B3000E2BD5E /* TipCalculations.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
